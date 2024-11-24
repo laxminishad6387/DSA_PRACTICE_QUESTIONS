@@ -29,9 +29,13 @@ class DriverClass {
 }
 // } Driver Code Ends
 
-
+// ask in Flipkart Amazon Microsoft 
+// Samsung MakeMyTrip Oracle  Goldman Sachs 
+// Adobe BankBazaar Rockstand
 // daily practice problem 
 // graph preactice problem 
+// time compexity : (v+e)
+
 class Solution {
     
     public boolean isCycleDetection(ArrayList<ArrayList<Integer>> graph,
